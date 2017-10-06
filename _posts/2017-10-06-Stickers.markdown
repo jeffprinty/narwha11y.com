@@ -4,8 +4,10 @@ title:      Stickers
 author:     Jeff Printy
 tags: 		merch
 subtitle:  	A narwha11y for your lappy
-category:  project1
+category:  tool
 ---
 <!-- Start Writing Below in Markdown -->
+
+![Narwha11y sticker](/img/sticker.png)
 
 [Buy some stickers](https://www.redbubble.com/people/drwicked/works/26890539-narwha11y?ref=personalised_recommendations_carousel&asc=u)
