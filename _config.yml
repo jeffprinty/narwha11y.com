@@ -1,12 +1,13 @@
 # Site settings
 title: Narwha11y
 description: "Accessibility and sea unicorns"
-url: "https://jeffprinty.github.io"
+url: "http://www.narwha11y.com"
 
 
 
 
 # Secondary Parameters
+baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /img/logos/narwha11y_lg.png
